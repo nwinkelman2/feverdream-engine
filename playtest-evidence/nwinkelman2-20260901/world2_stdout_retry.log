@@ -1,0 +1,6 @@
+fd-game: world + config from chunkins2.lua (20 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 60 frames, 1.1 fps end-to-end
+  score 1 (half-way 1), lives 3, state playing, highest stand 0.00, levels advanced 0, title 'Golden Acorn 2: Crate Heights'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC LIVE (relic collected via Lua)

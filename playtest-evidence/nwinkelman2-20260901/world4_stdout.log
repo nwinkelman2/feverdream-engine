@@ -1,0 +1,6 @@
+fd-game: world + config from chunkins4.lua (24 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 60 frames, 0.9 fps end-to-end
+  score 1 (half-way 1), lives 3, state playing, highest stand 0.00, levels advanced 0, title 'Golden Acorn 4: Thief's Hollow'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC LIVE (relic collected via Lua)

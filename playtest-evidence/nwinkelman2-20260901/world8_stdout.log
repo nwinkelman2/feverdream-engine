@@ -1,0 +1,6 @@
+fd-game: world + config from chunkins8.lua (21 boxes)
+fd-game: audio open — 5/5 sfx from assets, rest synthesized
+fd-game gametest: 30 frames, 2.0 fps end-to-end
+  score 1 (half-way 0), lives 4, state playing, highest stand 0.00, levels advanced 0, title 'Golden Acorn 8: The Magpie King'
+  pixels: REAL FRAME (non-uniform 320x180)
+  GAME LOGIC LIVE (relic collected via Lua)
